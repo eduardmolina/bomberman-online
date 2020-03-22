@@ -2,7 +2,7 @@ from models import Client
 
 
 def run():
-    client = Client(server_path='127.0.0.1:3000', name='Player1')
+    client = Client(server_path='167.99.5.145:3000', name='Player1')
     client.run()
 
 
